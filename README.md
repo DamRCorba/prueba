@@ -1,13 +1,22 @@
 # Titulo Principal
 
+Un texto cualquiera
+
 ## 2 Titulo
+
+Un texto cualquiera
 
 ### 3 Titulo
 
+Un texto cualquiera
+
 #### 4 Titulo
 
+Un texto cualquiera
 __Negrita__
+
 *Cursiva*
+
 ***Negrita y Cursiva***
 
 ```c
